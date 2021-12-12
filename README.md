@@ -42,6 +42,12 @@ The data is collected from the references below. Each source has only few gestur
 # Hand Gesture Images
 ![](documentation%20images/handgestures.png)
 
+# Model Summary
+
+![](documentation%20images/modelsummary.png)
+
+# Model 
+
 
 
 
