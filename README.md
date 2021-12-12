@@ -1,1 +1,1 @@
-# python_project
+# Hand Gesture Recognition
