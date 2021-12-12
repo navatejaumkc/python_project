@@ -58,7 +58,9 @@ The data is collected from the references below. Each source has only few gestur
 
 # Results
 
-
-
+![](documentation%20images/output1.jpeg)
+![](documentation%20images/output2.jpeg)
+![](documentation%20images/output3.jpeg)
+![](documentation%20images/output4.jpeg)
 
 
