@@ -36,6 +36,7 @@ The data is collected from the references below. Each source has only few gestur
 ![](documentation%20images/category.png)
 
 # Hand Gesture Images
+![](documentation%20images/handgestures.png)
 
 
 
