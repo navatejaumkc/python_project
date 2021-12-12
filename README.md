@@ -11,6 +11,10 @@
 
 The main objective of this project is to recognize the hand gestures. There are several categories of hand gestures like Call me, Fist, Index, Palm, Peace, Yo-Yo, and many more. After capturing the gesture the aim is to show that to which category does the image belongs to.
 
+# User Interface
+
+![](documentation%20images/ui.png)
+
 # Code requirements
 
 The code requires python version 3.0 or higher, and Jupyter Notebook.
