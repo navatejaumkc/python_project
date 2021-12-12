@@ -46,7 +46,11 @@ The data is collected from the references below. Each source has only few gestur
 
 ![](documentation%20images/modelsummary.png)
 
-# Model 
+# Model Diagram
+![](documentation%20images/modelplot.png)
+
+# Model Performance
+![](documentation%20images/performance.png)
 
 
 
