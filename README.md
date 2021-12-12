@@ -23,6 +23,19 @@ The code requires python version 3.0 or higher, and Jupyter Notebook.
 4. Open-CV
 5. Matplotlib
 
+# Data Source
+
+The data is collected from the references below. Each source has only few gestures so we combined the images of all the three references and seperated into categories.
+
+1. https://www.kaggle.com/sarjit07/hand-gesture-recog-dataset
+2. https://www.kaggle.com/muhammadkhalid/sign-language-for-numbers
+3. https://www.kaggle.com/ahmedkhanak1995/sign-language-gesture-images-dataset
+
+# Hand Gesture Categories
+
+
+
+
 
 
 
