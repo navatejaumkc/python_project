@@ -15,6 +15,9 @@ The main objective of this project is to recognize the hand gestures. There are 
 
 ![](documentation%20images/ui.png)
 
+# Execution
+To run the code type python app.py
+
 # Code requirements
 
 The code requires python version 3.0 or higher, and Jupyter Notebook.
