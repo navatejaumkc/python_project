@@ -15,6 +15,9 @@ The main objective of this project is to recognize the hand gestures. There are 
 
 ![](documentation%20images/ui.png)
 
+# Execution
+To run the code type ```python app.py``` in source code folder
+
 # Code requirements
 
 The code requires python version 3.0 or higher, and Jupyter Notebook.
@@ -26,6 +29,7 @@ The code requires python version 3.0 or higher, and Jupyter Notebook.
 3. Keras
 4. Open-CV
 5. Matplotlib
+6. Flask
 
 # Data Source
 
@@ -46,7 +50,11 @@ The data is collected from the references below. Each source has only few gestur
 
 ![](documentation%20images/modelsummary.png)
 
-# Model 
+# Model Diagram
+![](documentation%20images/modelplot.png)
+
+# Model Performance
+![](documentation%20images/performance.png)
 
 
 
