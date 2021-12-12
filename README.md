@@ -57,10 +57,13 @@ The data is collected from the references below. Each source has only few gestur
 ![](documentation%20images/performance.png)
 
 # Results
-
+Call Me<br>
 ![](documentation%20images/output1.jpeg)
+Yo-Yo<br>
 ![](documentation%20images/output2.jpeg)
+Ok-Super<br>
 ![](documentation%20images/output3.jpeg)
+Rock-Fist<br>
 ![](documentation%20images/output4.jpeg)
 
 
