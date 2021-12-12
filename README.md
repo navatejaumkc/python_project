@@ -29,6 +29,7 @@ The code requires python version 3.0 or higher, and Jupyter Notebook.
 3. Keras
 4. Open-CV
 5. Matplotlib
+6. Flask
 
 # Data Source
 
