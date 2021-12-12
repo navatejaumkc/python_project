@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="UTF-8">
+<title>Page Title</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="stylesheet" href="">
+<style>
+html,body {font-family:"Verdana",sans-serif}
+h1,h2,h3,h4,h5,h6 {font-family:"Segoe UI",sans-serif}
+</style>
+<script src=""></script>
+<body>
+
+<h1>Welcome To Our Python Project Hand Gesture Recognition</h1>
+<img src="{{url_for('static', filename='handgesture.jpg')}}" align="middle" width="1850" height="750"/>
+<p>Click the button below to predict the hand gesture.</p>
+<form action="/image_capture/" method="post">
+    <button name="forwardBtn" type="submit">Open Camera</button>
+</form>
+</body>
+</html>
+
+
